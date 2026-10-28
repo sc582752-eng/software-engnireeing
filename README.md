@@ -1,0 +1,2 @@
+# software-engnireeing
+CASE STUDY ON SOFTWARE QUALITY ASSURANCE (SQA)
